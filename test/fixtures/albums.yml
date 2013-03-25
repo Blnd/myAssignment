@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  releaseYear: 2013-03-25 10:02:56
+  artist_id: 1
+  num_of_copies: 1
+
+two:
+  title: MyString
+  releaseYear: 2013-03-25 10:02:56
+  artist_id: 1
+  num_of_copies: 1
